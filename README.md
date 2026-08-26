@@ -24,3 +24,7 @@ GitHub üzerindeki popüler açık kaynak projelerin yıldız, fork, programlama
 ## Durum
 
 Proje geliştirme aşamasındadır. Repository popülerlik analizi tamamlanmış olup release indirme verilerinin API üzerinden alınması üzerinde çalışılmaktadır.
+
+## Veri Kaynağı
+
+Proje verileri GitHub REST API üzerinden alınmaktadır. Repository Search API kullanılarak yıldız sayısına göre en popüler 100 açık kaynak repository analiz edilmektedir.
