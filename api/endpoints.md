@@ -10,12 +10,6 @@ https://api.github.com/search/repositories?q=stars:%3E1&sort=stars&order=desc&pe
 
 ## Release API
 
-Repository release bilgilerini almak için kullanılacak yapı:
-
-/repos/{owner}/{repo}/releases
-
-## Release API
-
 Repositorylerin release bilgilerini almak için aşağıdaki endpoint kullanılmıştır:
 
 `GET /repos/{owner}/{repo}/releases`
